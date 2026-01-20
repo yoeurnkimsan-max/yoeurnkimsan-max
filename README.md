@@ -113,11 +113,27 @@ Full-stack travel application featuring real-time booking, secure payment proces
 
 <div align="center" style="font-family: 'Roboto', sans-serif; margin: 2rem 0;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoeurn-kimsan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=667eea&text_color=4A5568&icon_color=667eea&bg_color=00000000&border_radius=12)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yoeurn-kimsan&show_icons=true&count_private=true&hide_border=true&title_color=667eea&text_color=c9d1d9&icon_color=667eea&bg_color=0d1117&border_radius=12&include_all_commits=true&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoeurn-kimsan&show_icons=true&count_private=true&hide_border=true&title_color=667eea&text_color=4A5568&icon_color=667eea&bg_color=ffffff&border_radius=12&include_all_commits=true&rank_icon=github" alt="GitHub Stats">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoeurn-kimsan&layout=compact&theme=tokyonight&hide_border=true&title_color=667eea&text_color=4A5568&bg_color=00000000&langs_count=8&border_radius=12)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yoeurn-kimsan&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=12&card_width=445">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoeurn-kimsan&layout=compact&hide_border=true&title_color=667eea&text_color=4A5568&bg_color=ffffff&langs_count=8&border_radius=12&card_width=445" alt="Top Languages">
+</picture>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoeurn-kimsan&theme=tokyonight&hide_border=true&background=00000000&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=4A5568&sideLabels=4A5568&currStreakNum=667eea&sideNums=667eea&border_radius=12)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yoeurn-kimsan&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=667eea&sideNums=667eea&border_radius=12&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://streak-stats.demolab.com?user=yoeurn-kimsan&hide_border=true&background=ffffff&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=4A5568&sideLabels=4A5568&currStreakNum=667eea&sideNums=667eea&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yoeurn-kimsan&bg_color=0d1117&color=667eea&line=667eea&point=764ba2&area=true&hide_border=true&custom_title=Contribution%20Graph&area_color=667eea&title_color=667eea&radius=12">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoeurn-kimsan&bg_color=ffffff&color=667eea&line=667eea&point=764ba2&area=true&hide_border=true&custom_title=Contribution%20Graph&area_color=667eea&title_color=667eea&radius=12" alt="Contribution Graph">
+</picture>
 
 </div>
 
