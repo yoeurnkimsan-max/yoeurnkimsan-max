@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yoeurn 👋
 
-<!--
-**yoeurnkimsan-max/yoeurnkimsan-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Full-stack developer | Spring Boot, React, PostgreSQL
+- Cybersecurity enthusiast 🔒
+- Open source contributor
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Backend:** Java, Spring Boot, Node.js
+- **Frontend:** React, TailwindCSS
+- **Database:** PostgreSQL, MongoDB
+- **Tools:** Docker, Git, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [Edu Portal](https://github.com/yoeurn-kimsan/edu-portal) – University & Scholarship Management System
+- [Travel Booking](https://github.com/yoeurn-kimsan/travel-booking) – Full-stack travel app
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoeurn-kimsan&show_icons=true&theme=tokyonight)
+
+## 📫 Contact
+- Email: your.email@example.com
+- LinkedIn: [Profile](https://www.linkedin.com/in/yoeurn-kimsan/)
