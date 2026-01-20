@@ -75,7 +75,7 @@ Comprehensive university and scholarship management platform featuring role-base
 </div>
 
 <p style="margin: 1.5rem 0 0 0;">
-<a href="https://github.com/yoeurn-kimsan/edu-portal" style="text-decoration: none;">
+<a href="https://github.com/yoeurnkimsan-max/edu-portal" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/View_Repository-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
 </a>
 </p>
@@ -98,7 +98,7 @@ Full-stack travel application featuring real-time booking, secure payment proces
 </div>
 
 <p style="margin: 1.5rem 0 0 0;">
-<a href="https://github.com/yoeurn-kimsan/travel-booking" style="text-decoration: none;">
+<a href="https://github.com/yoeurnkimsan-max/travel-booking" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/View_Repository-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
 </a>
 </p>
@@ -116,34 +116,34 @@ Full-stack travel application featuring real-time booking, secure payment proces
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
 
 <div style="flex: 1; min-width: 300px; max-width: 400px;">
-<a href="https://github.com/yoeurn-kimsan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoeurn-kimsan&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&text_color=4A5568&icon_color=667eea&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
+<a href="https://github.com/yoeurnkimsan-max">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoeurnkimsan-max&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&text_color=4A5568&icon_color=667eea&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
 </a>
 </div>
 
 <div style="flex: 1; min-width: 300px; max-width: 400px;">
-<a href="https://github.com/yoeurn-kimsan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoeurn-kimsan&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&text_color=4A5568&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages">
+<a href="https://github.com/yoeurnkimsan-max">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoeurnkimsan-max&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&text_color=4A5568&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages">
 </a>
 </div>
 
 </div>
 
 <div style="margin-bottom: 2rem;">
-<a href="https://github.com/yoeurn-kimsan">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoeurn-kimsan&theme=default&hide_border=true&background=ffffff&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=4A5568&sideLabels=4A5568&currStreakNum=667eea&sideNums=667eea" alt="GitHub Streak Stats">
+<a href="https://github.com/yoeurnkimsan-max">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoeurnkimsan-max&theme=default&hide_border=true&background=ffffff&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=4A5568&sideLabels=4A5568&currStreakNum=667eea&sideNums=667eea" alt="GitHub Streak Stats">
 </a>
 </div>
 
 <div style="margin-bottom: 2rem;">
-<a href="https://github.com/yoeurn-kimsan">
-  <img src="https://github-profile-trophy.vercel.app/?username=yoeurn-kimsan&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=2&column=4&title=Commits,PullRequest,Repositories,Issues" alt="GitHub Trophies" style="max-width: 100%;">
+<a href="https://github.com/yoeurnkimsan-max">
+  <img src="https://github-profile-trophy.vercel.app/?username=yoeurnkimsan-max&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=2&column=4&title=Commits,PullRequest,Repositories,Issues" alt="GitHub Trophies" style="max-width: 100%;">
 </a>
 </div>
 
 <div style="margin-bottom: 1rem;">
-<a href="https://github.com/yoeurn-kimsan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoeurn-kimsan&theme=github_dark&show_icons=true&hide_border=true&title_color=667eea&text_color=ffffff&bg_color=0d1117" alt="Activity Graph" style="width: 100%; max-width: 900px;">
+<a href="https://github.com/yoeurnkimsan-max">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoeurnkimsan-max&theme=github_dark&show_icons=true&hide_border=true&title_color=667eea&text_color=ffffff&bg_color=0d1117" alt="Activity Graph" style="width: 100%; max-width: 900px;">
 </a>
 </div>
 
@@ -246,11 +246,11 @@ Regular dependency monitoring
   <img src="https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://www.linkedin.com/in/yoeurn-kimsan/" style="text-decoration: none; margin: 0 0.5rem;">
+<a href="https://www.linkedin.com/in/yoeurnkimsan-max/" style="text-decoration: none; margin: 0 0.5rem;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://github.com/yoeurn-kimsan" style="text-decoration: none; margin: 0 0.5rem;">
+<a href="https://github.com/yoeurnkimsan-max" style="text-decoration: none; margin: 0 0.5rem;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
@@ -269,9 +269,9 @@ Regular dependency monitoring
 <div align="center" style="font-family: 'Roboto', sans-serif; margin: 3rem 0 2rem 0;">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; margin-bottom: 1.5rem;">
-<img src="https://komarev.com/ghpvc/?username=yoeurn-kimsan&color=667eea&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/yoeurn-kimsan?style=flat-square&color=667eea&label=FOLLOWERS" alt="GitHub Followers">
-<img src="https://img.shields.io/github/stars/yoeurn-kimsan?style=flat-square&color=667eea&label=STARS" alt="Total Stars">
+<img src="https://komarev.com/ghpvc/?username=yoeurnkimsan-max&color=667eea&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/yoeurnkimsan-max?style=flat-square&color=667eea&label=FOLLOWERS" alt="GitHub Followers">
+<img src="https://img.shields.io/github/stars/yoeurnkimsan-max?style=flat-square&color=667eea&label=STARS" alt="Total Stars">
 </div>
 
 <p style="color: #718096; font-size: 0.95rem; margin-top: 1.5rem; font-style: italic;">
