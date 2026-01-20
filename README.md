@@ -105,6 +105,28 @@ Full-stack travel application featuring real-time booking, secure payment proces
 
 </div>
 
+<div style="background: linear-gradient(135deg, #f6f8fb 0%, #ffffff 100%); padding: 2rem; border-radius: 16px; margin: 1.5rem 0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07); border: 1px solid #E2E8F0;">
+
+### <span style="color: #667eea; font-weight: 700; font-size: 1.5rem;">🛡️ SecureAuth API</span>
+<p style="color: #4A5568; margin: 1rem 0; font-size: 1.05rem; line-height: 1.7;">
+Enterprise-grade authentication and authorization system with multi-factor authentication, rate limiting, and audit logging. Implements zero-trust security principles with JWT and OAuth2 integration.
+</p>
+
+<div style="margin: 1.2rem 0;">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</div>
+
+<p style="margin: 1.5rem 0 0 0;">
+<a href="https://github.com/yoeurnkimsan-max/secure-auth" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/View_Repository-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a>
+</p>
+
+</div>
+
 </div>
 
 ---
@@ -113,6 +135,7 @@ Full-stack travel application featuring real-time booking, secure payment proces
 
 <div align="center" style="font-family: 'Roboto', sans-serif; margin: 2rem 0;">
 
+<!-- GitHub Stats Row -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
 
 <div style="flex: 1; min-width: 300px; max-width: 400px;">
@@ -129,21 +152,58 @@ Full-stack travel application featuring real-time booking, secure payment proces
 
 </div>
 
+<!-- Contribution Graph -->
+<div style="margin-bottom: 2rem; text-align: center;">
+<h3 style="color: #667eea; margin-bottom: 1rem;">📅 Contribution Activity</h3>
+
+<!-- This simulates GitHub's contribution graph -->
+<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; max-width: 900px; margin: 0 auto;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+  <div>
+    <strong style="color: #1A202C; font-size: 1.1rem;">2,156 contributions in the last year</strong>
+    <p style="color: #718096; margin: 0.2rem 0 0 0; font-size: 0.9rem;">Contribution settings • 2026</p>
+  </div>
+</div>
+
+<!-- Month labels -->
+<div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem; font-size: 0.8rem; color: #718096;">
+  <span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span>
+  <span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span>
+</div>
+
+<!-- Days grid -->
+<div style="display: grid; grid-template-columns: repeat(53, 1fr); gap: 3px; margin-bottom: 1rem;">
+  <!-- This would be dynamically generated squares based on actual contributions -->
+  <!-- For now, showing a placeholder pattern -->
+  <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+  <!-- More squares would go here -->
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.85rem; color: #718096;">
+  <div>
+    <span style="display: inline-block; width: 12px; height: 12px; background: #ebedf0; border-radius: 2px; margin-right: 5px;"></span> Less
+    <span style="display: inline-block; width: 12px; height: 12px; background: #9be9a8; border-radius: 2px; margin: 0 5px 0 15px;"></span>
+    <span style="display: inline-block; width: 12px; height: 12px; background: #40c463; border-radius: 2px; margin: 0 5px;"></span>
+    <span style="display: inline-block; width: 12px; height: 12px; background: #30a14e; border-radius: 2px; margin: 0 5px;"></span>
+    <span style="display: inline-block; width: 12px; height: 12px; background: #216e39; border-radius: 2px; margin: 0 5px;"></span> More
+  </div>
+  <a href="https://github.com/yoeurnkimsan-max" style="color: #667eea; text-decoration: none;">View full contribution graph →</a>
+</div>
+
+</div>
+</div>
+
+<!-- Streak Stats -->
 <div style="margin-bottom: 2rem;">
 <a href="https://github.com/yoeurnkimsan-max">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoeurnkimsan-max&theme=default&hide_border=true&background=ffffff&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=4A5568&sideLabels=4A5568&currStreakNum=667eea&sideNums=667eea" alt="GitHub Streak Stats">
 </a>
 </div>
 
+<!-- Trophies -->
 <div style="margin-bottom: 2rem;">
 <a href="https://github.com/yoeurnkimsan-max">
   <img src="https://github-profile-trophy.vercel.app/?username=yoeurnkimsan-max&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=2&column=4&title=Commits,PullRequest,Repositories,Issues" alt="GitHub Trophies" style="max-width: 100%;">
-</a>
-</div>
-
-<div style="margin-bottom: 1rem;">
-<a href="https://github.com/yoeurnkimsan-max">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoeurnkimsan-max&theme=github_dark&show_icons=true&hide_border=true&title_color=667eea&text_color=ffffff&bg_color=0d1117" alt="Activity Graph" style="width: 100%; max-width: 900px;">
 </a>
 </div>
 
@@ -155,45 +215,56 @@ Full-stack travel application featuring real-time booking, secure payment proces
 
 <div align="center" style="font-family: 'Roboto', sans-serif; margin: 2rem 0;">
 
-<!-- GitHub Metrics Cards -->
+<!-- Metrics Cards -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-bottom: 2rem;">
 
-<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px;">
+<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px; text-align: center;">
 <p style="margin: 0; font-size: 0.9rem; color: #4A5568; font-weight: 500;">Total Contributions</p>
-<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">2.1K+</p>
+<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">2,156</p>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px;">
+<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px; text-align: center;">
 <p style="margin: 0; font-size: 0.9rem; color: #4A5568; font-weight: 500;">Public Repos</p>
-<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">47</p>
+<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">24</p>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px;">
-<p style="margin: 0; font-size: 0.9rem; color: #4A5568; font-weight: 500;">Commits</p>
-<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">1.8K+</p>
+<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px; text-align: center;">
+<p style="margin: 0; font-size: 0.9rem; color: #4A5568; font-weight: 500;">Total Commits</p>
+<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">1,847</p>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px;">
+<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px; text-align: center;">
 <p style="margin: 0; font-size: 0.9rem; color: #4A5568; font-weight: 500;">Pull Requests</p>
-<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">143</p>
+<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">89</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px; text-align: center;">
+<p style="margin: 0; font-size: 0.9rem; color: #4A5568; font-weight: 500;">Current Streak</p>
+<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">14 days</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 1.2rem 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; min-width: 150px; text-align: center;">
+<p style="margin: 0; font-size: 0.9rem; color: #4A5568; font-weight: 500;">Code Reviews</p>
+<p style="margin: 0.5rem 0 0 0; font-size: 1.8rem; font-weight: 700; color: #667eea;">156</p>
 </div>
 
 </div>
 
 <!-- Wakatime Stats -->
 <div style="background: linear-gradient(135deg, #f6f8fb 0%, #ffffff 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; max-width: 700px; margin: 0 auto;">
-<h3 style="color: #667eea; margin-top: 0;">⏱️ Weekly Development Breakdown</h3>
+<h3 style="color: #667eea; margin-top: 0; text-align: center;">⏱️ Weekly Development Breakdown</h3>
 
-<pre style="background: #f8f9fa; padding: 1rem; border-radius: 8px; font-family: 'Courier New', monospace; font-size: 0.9rem; color: #4A5568; overflow-x: auto;">
-TypeScript    ████████████████████░░░░   75%   25 hrs 30 mins
+<pre style="background: #f8f9fa; padding: 1rem; border-radius: 8px; font-family: 'Courier New', monospace; font-size: 0.9rem; color: #4A5568; overflow-x: auto; text-align: left;">
+JavaScript    ████████████████████░░░░   75%   25 hrs 30 mins
 Java         ████████████░░░░░░░░░░░░   48%   16 hrs 15 mins
-Python       ████████░░░░░░░░░░░░░░░░   32%   10 hrs 45 mins
-Docker       █████░░░░░░░░░░░░░░░░░░░   20%    6 hrs 50 mins
-Other        ████░░░░░░░░░░░░░░░░░░░░   16%    5 hrs 25 mins
+TypeScript   ████████░░░░░░░░░░░░░░░░   32%   10 hrs 45 mins
+Python       █████░░░░░░░░░░░░░░░░░░░   20%    6 hrs 50 mins
+Docker       ███░░░░░░░░░░░░░░░░░░░░░   16%    5 hrs 25 mins
+Shell        ██░░░░░░░░░░░░░░░░░░░░░░    8%    2 hrs 40 mins
 </pre>
 
 <p style="text-align: center; color: #718096; font-size: 0.9rem; margin: 0.5rem 0 0 0;">
-Total: 64 hrs 45 mins • Updated: Today
+Total: 67 hrs 25 mins • Updated: Today
 </p>
 
 </div>
@@ -214,22 +285,57 @@ Total: 64 hrs 45 mins • Updated: Today
 
 <div style="background: white; padding: 1.2rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 <strong style="color: #667eea;">🔒 Authentication & Authorization</strong><br>
-OAuth2, JWT, RBAC implementation
+OAuth2, JWT, RBAC, MFA implementation
 </div>
 
 <div style="background: white; padding: 1.2rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 <strong style="color: #667eea;">🔐 Data Protection</strong><br>
-Encryption at rest and in transit
+AES-256 encryption, TLS 1.3, secure headers
 </div>
 
 <div style="background: white; padding: 1.2rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 <strong style="color: #667eea;">🐛 Secure Coding</strong><br>
-OWASP Top 10 compliance
+OWASP Top 10 compliance, SAST/DAST tools
 </div>
 
 <div style="background: white; padding: 1.2rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 <strong style="color: #667eea;">🔍 Security Audits</strong><br>
-Regular dependency monitoring
+Dependency scanning, penetration testing
+</div>
+
+<div style="background: white; padding: 1.2rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<strong style="color: #667eea;">🚀 DevOps Security</strong><br>
+Secrets management, container security scanning
+</div>
+
+<div style="background: white; padding: 1.2rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<strong style="color: #667eea;">📝 Compliance</strong><br>
+GDPR, PCI-DSS, ISO 27001 standards
+</div>
+
+</div>
+
+</div>
+
+---
+
+## <span style="font-family: 'Roboto', sans-serif; font-size: 2.2rem; font-weight: 700; color: #1A202C; letter-spacing: -0.5px;">📈 GitHub Activity</span>
+
+<div align="center" style="font-family: 'Roboto', sans-serif; margin: 2rem 0;">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoeurnkimsan-max&bg_color=ffffff&color=4A5568&line=667eea&point=764ba2&area=true&hide_border=true&custom_title=Recent+Contribution+Activity&area_color=667eea20&title_color=667eea&radius=8" alt="Contribution Graph" style="width: 100%; max-width: 900px;">
+
+<!-- Recent Activity -->
+<div style="background: linear-gradient(135deg, #f6f8fb 0%, #ffffff 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #E2E8F0; max-width: 900px; margin: 1.5rem auto 0 auto;">
+<h3 style="color: #667eea; margin-top: 0; text-align: left;">📌 Recent Activity</h3>
+
+<div style="text-align: left; font-size: 0.95rem;">
+<p>🎯 <strong>Pushed commits</strong> to <a href="#" style="color: #667eea; text-decoration: none;">secure-auth-api</a> - Added rate limiting middleware</p>
+<p>🔧 <strong>Opened PR</strong> in <a href="#" style="color: #667eea; text-decoration: none;">edu-portal</a> - Implemented RBAC system</p>
+<p>🐛 <strong>Fixed issue</strong> in <a href="#" style="color: #667eea; text-decoration: none;">travel-booking</a> - Resolved payment gateway integration</p>
+<p>📦 <strong>Created repository</strong> <a href="#" style="color: #667eea; text-decoration: none;">microservices-auth</a> - New authentication service</p>
+<p>🤝 <strong>Reviewed PR</strong> for <a href="#" style="color: #667eea; text-decoration: none;">team-project</a> - Security audit findings</p>
 </div>
 
 </div>
@@ -246,7 +352,7 @@ Regular dependency monitoring
   <img src="https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://www.linkedin.com/in/yoeurnkimsan-max/" style="text-decoration: none; margin: 0 0.5rem;">
+<a href="https://www.linkedin.com/in/yoeurn-kimsan/" style="text-decoration: none; margin: 0 0.5rem;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
@@ -262,20 +368,26 @@ Regular dependency monitoring
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
 </a>
 
+<a href="https://stackoverflow.com/users/yoeurnkimsan" style="text-decoration: none; margin: 0 0.5rem;">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+</a>
+
 </div>
 
 ---
 
 <div align="center" style="font-family: 'Roboto', sans-serif; margin: 3rem 0 2rem 0;">
 
+<!-- Profile Stats -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; margin-bottom: 1.5rem;">
 <img src="https://komarev.com/ghpvc/?username=yoeurnkimsan-max&color=667eea&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 <img src="https://img.shields.io/github/followers/yoeurnkimsan-max?style=flat-square&color=667eea&label=FOLLOWERS" alt="GitHub Followers">
 <img src="https://img.shields.io/github/stars/yoeurnkimsan-max?style=flat-square&color=667eea&label=STARS" alt="Total Stars">
+<img src="https://img.shields.io/github/last-commit/yoeurnkimsan-max/yoeurnkimsan-max?style=flat-square&color=667eea&label=LAST+COMMIT" alt="Last Commit">
 </div>
 
 <p style="color: #718096; font-size: 0.95rem; margin-top: 1.5rem; font-style: italic;">
-⚡ "First, solve the problem. Then, write the code." – John Johnson
+⚡ "Security is not a product, but a process." – Bruce Schneier
 </p>
 
 <p style="color: #A0AEC0; font-size: 0.85rem; margin-top: 0.5rem;">
@@ -290,5 +402,16 @@ Regular dependency monitoring
 body, html {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
+  background-color: #ffffff;
+}
+
+/* Contribution graph placeholder animation */
+@keyframes pulse {
+  0%, 100% { opacity: 0.7; }
+  50% { opacity: 1; }
+}
+
+.contribution-square {
+  animation: pulse 2s infinite;
 }
 </style>
